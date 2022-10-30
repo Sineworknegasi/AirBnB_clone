@@ -38,3 +38,4 @@ class Place(BaseModel):
     latitude = 0.0
     max_guest = 0
     amenity_ids = []
+commits
