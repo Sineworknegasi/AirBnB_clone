@@ -94,4 +94,4 @@ $ python3 unittest -m tests/test_console.py
 ## Authors :black_nib:
 
 * **Sinework Negasi G/TINSAE** <[Sineworknegasi](https://github.com/Sineworknegasi/)>
-* as i do my commits
+* **Nomoya Magazi** <[Nomoya-Magazi](https://github.com/Nomoya-Magazi/)>
