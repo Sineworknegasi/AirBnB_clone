@@ -16,3 +16,4 @@ A `Cmd` instance or subclass instance is a line-oriented interpreter framework. 
 - An interpreter instance will recognize a command name `foo` if and only if it has a method `do_foo()`. As a special case, a line beginning with the character '?' is dispatched to the method `do_help()`. As another special case, a line beginning with the character '!' is dispatched to the method `do_shell()` (if such a method is defined).
 - Implement `do_EOF()` to gracefully catch errors.
 - Implement `emptyline()` to override default `empty line + return` behaviour.
+as i do my commits
