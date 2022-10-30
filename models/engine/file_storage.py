@@ -71,4 +71,3 @@ class FileStorage():
             FileStorage.__objects = {
                 k: current_classes[k.split('.')[0]](**v)
                 for k, v in deserialized.items()}
-comit
