@@ -21,4 +21,3 @@ class Review(BaseModel):
     text = ""
     user_id = ""
     place_id = ""
-commits
