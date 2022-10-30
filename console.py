@@ -277,4 +277,3 @@ def parse_str(arg):
 
 if __name__ == "__main__":
     HBNBCommand().cmdloop()
-as i do my comits
