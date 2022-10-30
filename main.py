@@ -118,4 +118,3 @@ class TestUserDotNotation(unittest.TestCase):
                                  f'User.destroy({us.id})'))
             self.assertNotIn("User.{}".format(
                 us.id), storage.all().keys())
-as i do my commits
